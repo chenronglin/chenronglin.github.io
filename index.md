@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chenronglin/chenronglin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# 联系方式
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 手机: 13905189408
+- Email: chenrnglin@gmail.com
+- 微信号: 13905189408
+- QQ: 55055280
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 个人信息
 
-```markdown
-Syntax highlighted code block
+ - 陈蓉林/男/1974 
+ - 长沙理工大学机电工程系 
+ - 工作年限：20年以上
+ - Github：http://github.com/chenronglin
+ - 期望职位：区块链合约开发，后台开发，应用架构师，技术总监
+ - 工作方式：远程工作
+ - 期望薪资：根据项目具体情况面谈
 
-# Header 1
-## Header 2
-### Header 3
+# 个人简介
 
-- Bulleted
-- List
+2000年国家认证高级程序员。参与过国家级大型IT项目，主持过省级项目。经验丰富，且能紧跟技术发展。当过企业高管，自己创过业。在南京“氪空间”创业孵化基地工作过3年以上，参与过多个创业项目的启动，能深刻理解创业公司需求。创业社区“缘创派”上知名技术合伙人，帮助过多名创业者完成技术和方向选型。
+<img src="https://github.com/chenronglin/chenronglin.github.io/blob/main/chenronglin.jpg?raw=true" alt="chenronglin" style="zoom:25%;" /> 
 
-1. Numbered
-2. List
+# 工作经历
 
-**Bold** and _Italic_ and `Code` text
+## 创业阶段 （ 2013年2月 ~ 至今 ）
 
-[Link](url) and ![Image](src)
-```
+#### 比特币矿池项目 
+2019年独立开发了名为“海洋矿池”(https://newpool.minersea.com)的前后台系统，和与矿池配套的微信小程序“矿工海洋”。上线后与比特大陆旗下btc.com矿池合作运营，接入矿机1500多台，累计产出60多个比特币。2021年11月因政策原因矿池下线。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+#### “互联网+”创业项目 
+2015年开始，我在南京“氪空间”创业孵化基地参与了一系列“互联网+”创业项目，如 **工地在线**、**果酱音乐**、**裁缝铺**、**考研盒子**等。在这些项目中，我主要定位于技术合伙人角色。与创始人一起制定创业战略方向，技术选型，技术团队岗位规划，人员招募。全盘参与产品策划、开发、上线运营。每个项目都在半年内成功上线App或者微信公众号/小程序，上线后跟随业务变化快速迭代。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenronglin/chenronglin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 职场阶段 （ 2000年4月 ~ 2013年2月 ）
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+作为程序员，参与云南、海南、江苏、甘肃、陕西等省份的中国移动计费系统。
+作为技术经理，参与中国移动梦网的建设。后负责华东区江浙沪、山东、江西、安徽等省市的移动数据业务管理和运营。
+作为管理层，负责中国移动游戏基地的技术和运营工作。
+
+
+# 技能清单
+
+作为一名全栈开发者。我对互联网产品设计与运营有着较为深刻的理解，和充分的实践经验。善于解决工作中的实际问题。英语书面读写无压力，但口语交流能力欠佳。
+
+以下均为我熟练使用的开发技能:
+
+- 编程语言：JavaScript/TypeScript/Golang/Python/PHP/Java
+- 后端框架：NestJs/Gin/Django/Lavarel/SpringBoot
+- 前端框架：React/Nextjs/Vue
+- 数据库相关：MySQL/PgSQL/SQLite/Oracle
+- 版本管理、文档和自动化部署工具：Git/Svn/Docker/Postman/Apifox
+- 区块链合约开发相关：
+  - 区块链：BTC/Ethereum/BSC/Polygon
+  - 全节点、第三方节点：bitcoin-core/geth/Infura
+  - 合约编程语言与开发环境：Solidity/Remix/Hardhat/Truffle
+  - 合约开发标准库：OpenZeppelin/Web3.js/Ethers.js
+  - 区块链应用：ERC-20/ERC-721/ERC-1155/UniSwap
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
