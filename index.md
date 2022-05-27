@@ -19,8 +19,8 @@
 
 # 个人简介
 
-2000年国家认证高级程序员。参与过国家级大型IT项目，主持过省级项目。经验丰富，且能紧跟技术发展。当过企业高管，自己创过业。在南京“氪空间”创业孵化基地工作过3年以上，参与过多个创业项目的启动，能深刻理解创业公司需求。创业社区“缘创派”上知名技术合伙人，帮助过多名创业者完成技术和方向选型。
-<img src="https://github.com/chenronglin/chenronglin.github.io/blob/main/chenronglin.jpg?raw=true" width="200" alt="近照" align=center />
+- 2000年国家认证高级程序员。参与过国家级大型IT项目，主持过省级项目。经验丰富，且能紧跟技术发展。当过企业高管，自己创过业。在南京“氪空间”创业孵化基地工作过3年以上，参与过多个创业项目的启动，能深刻理解创业公司需求。创业社区“缘创派”上知名技术合伙人，帮助过多名创业者完成技术和方向选型。
+- 近照<img src="https://github.com/chenronglin/chenronglin.github.io/blob/main/chenronglin.jpg?raw=true" width="200" alt="近照" align=center />
 
 # 工作经历
 
